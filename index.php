@@ -1,3 +1,5 @@
 <?php
-//WP Social Broadcast Rockssss
+
+//WP Social Broadcast Rockssss By Navnish Bhardwaj
+
 ?>
